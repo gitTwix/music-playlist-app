@@ -6,6 +6,10 @@ A React web application that allows users to search for music, create custom pla
 
 [View Live Demo](https://stellar-rugelach-3d47ba.netlify.app)
 
+## Purpose
+
+This project demonstrates core React skills: component architecture, state management, API integration, and deployment. It showcases the ability to build interactive applications, handle user input, manage complex state flows, and integrate third-party APIs.
+
 ## Features
 
 - Search for songs by title using MusicBrainz API
@@ -39,3 +43,11 @@ A React web application that allows users to search for music, create custom pla
 ## Notes
 
 Originally built with Spotify API. Switched to MusicBrainz due to free tier limitations.
+
+## Future Enhancements
+
+- Backend database for persistent playlist storage
+- User authentication and accounts
+- Spotify API integration for saving playlists to user accounts
+- Audio playback functionality
+- Advanced search filters (genre, artist, year)
